@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "328224625558",
+    "firebase_url": "https://instagram-clone-60e5f-default-rtdb.firebaseio.com",
+    "project_id": "instagram-clone-60e5f",
+    "storage_bucket": "instagram-clone-60e5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328224625558:android:c3f4a8b1193780e8cd03b7",
+        "android_client_info": {
+          "package_name": "com.example.flutter1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1cbVAZ5I20Vjh2JkUJ6R_v9qcpnu39FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328224625558:android:a4933bfd966f1fd0cd03b7",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1cbVAZ5I20Vjh2JkUJ6R_v9qcpnu39FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
